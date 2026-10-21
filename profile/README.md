@@ -10,7 +10,7 @@ Industrial-grade agent skills for reverse-engineering and porting classic deskto
 
 ### [zuma](https://atbfun.github.io/zuma/)
 
-(<img width="1256" height="943" alt="截屏2026-10-21 13 31 36" src="https://github.com/user-attachments/assets/45bb4938-732b-48bb-a4eb-fa8417a69b84" />)
+<img width="1256" height="943" alt="截屏2026-10-21 13 31 36" src="https://github.com/user-attachments/assets/45bb4938-732b-48bb-a4eb-fa8417a69b84" />
 
 ### [cutrope](https://atbfun.github.io/cutrope/)
 
