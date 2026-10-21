@@ -10,5 +10,7 @@ Industrial-grade agent skills for reverse-engineering and porting classic deskto
 
 ### [KingDomRush](https://atbfun.github.io/kingdomrush/)
 
+### [zuma](https://atbfun.github.io/zuma/)
+
 
 
